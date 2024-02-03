@@ -2,6 +2,13 @@
 
 Our project aims to analyze the possible connections between traffic amount / traffic congestion in Basel and the (average) speed of diverse vehicles. To reach this goal, we create integrated tables according to our integrated ER diagrams, where we just keep the relevant information of the source data. We performed our data cleaning using python, and for the database creation we used mySQL and DataGrip.
 
+Data sources:
+- Verkehrszähldaten motorisierter Individualverkehr 
+    Source: https://data.bs.ch/explore/dataset/100006 – Size: 1.1 GB
+- Geschwindigkeitsmonitoring: Einzelmessungen ab 2021 
+    Source: https://data.bs.ch/explore/dataset/100097 – Size: 8.05 GB
+
+
 ## Database Setup Guide
 
 ### Step 1.1: Clean the datasets
