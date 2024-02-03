@@ -8,6 +8,8 @@ Data sources:
 - Geschwindigkeitsmonitoring: Einzelmessungen ab 2021 
     Source: https://data.bs.ch/explore/dataset/100097 – Size: 8.05 GB
 
+Note that to follow the instructions below, you will first need to download the data sources from above.
+
 
 ## Database Setup Guide
 
