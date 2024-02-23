@@ -74,4 +74,4 @@ Now, after this is done correctly, you should be able to take a look at the tabl
 
 Run the 'integrated.sql' script inside DataGrip. This should load the data into the integrated SQL table, and performs some additional steps, like creating coherent artificial primary keys.
 
-Owner: Yash Trivedi, Severin Memmishofer
+Owners: Yash Trivedi and Severin Memmishofer
